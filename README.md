@@ -1,1 +1,1 @@
-Custom libraries used by the KMPSoftwareSerial project.
+Custom libraries used (included) in the KMPSoftwareSerial project.
